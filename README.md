@@ -1,1 +1,3 @@
-# IGB
+# IGB Python script repository
+#
+# No promises...
